@@ -1,2 +1,2 @@
 # AlgorithmStart
-start of java codding
+First time i try Java, and just doing simple tasks
